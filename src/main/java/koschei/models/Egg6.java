@@ -9,8 +9,8 @@ public class Egg6 {
     private final Needle7 needle;
 
     @Autowired
-    public Egg6(Needle7 needle) {
-        this.needle = needle;
+    public Egg6(Needle7 needle7) {
+        this.needle = needle7;
     }
 
     @Override
